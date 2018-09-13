@@ -1,1 +1,0 @@
-googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyAzxUAwc_1-35n6G7MI6r7lvBWymbmOvMU"
