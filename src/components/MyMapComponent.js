@@ -40,7 +40,7 @@ const MapWithADrawingManager = compose(
         defaultCenter={new google.maps.LatLng(45.523064, -122.676483)}
     >
         <DrawingManager
-            defaultDrawingMode={google.maps.drawing.OverlayType.CIRCLE}
+            defaultDrawingMode={google.maps.drawing.OverlayType.POLYGON}
             onPolygonComplete={(poly) => onPolygonCompleted(poly)}
             defaultOptions={{
                 drawingControl: true,
